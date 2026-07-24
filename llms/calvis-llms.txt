@@ -1,0 +1,95 @@
+# generated: '2026-07-18'
+# method: searched
+# source: https://calvis.com/llms.txt
+# fetched: 2026-07-18 (HTTP 200, text/plain)
+
+# Calvis
+
+> Multi-agency security guard marketplace platform. Book vetted, licensed security guards from multiple professional agencies in 40+ US cities. Founded 2023, headquartered in Miami, FL.
+
+Last updated: March 2026
+
+- [Full Documentation](https://calvis.com/llms-full.txt): Comprehensive service catalog, pricing, coverage, and platform details
+- [Full Documentation (Markdown)](https://calvis.com/llms.md): Same content in .md format
+- [All Services](https://calvis.com/services): 20+ security specialties including event, retail, corporate, and armed guards
+- [All Locations](https://calvis.com/locations): Coverage across 40+ US metropolitan areas
+- [FAQ](https://calvis.com/faq): Common questions about booking, pricing, and guard quality
+- [Blog](https://calvis.com/blog): Security industry guides, tips, and resources
+- [For Guards](https://calvis.com/guards): Join the Calvis security professional network
+- [Book Now](https://app.calvis.com/book): Request security guard services
+
+## Services
+
+- [Event Security](https://calvis.com/services/event-security): Guards for concerts, festivals, corporate events, and private functions
+- [Retail Security](https://calvis.com/services/retail-security): Loss prevention and store protection for shopping centers
+- [Construction Security](https://calvis.com/services/construction-security): 24/7 site protection, equipment monitoring, access control
+- [Corporate Security](https://calvis.com/services/corporate-security): Office building security, executive protection, workplace safety
+- [Residential Security](https://calvis.com/services/residential-security): Gated communities, apartments, and private home protection
+- [Entertainment Security](https://calvis.com/services/entertainment-security): Nightclub, bar, and venue security with crowd management
+- [Hospital Security](https://calvis.com/services/hospital-security): Healthcare facility protection and patient safety
+- [Cannabis Security](https://calvis.com/services/cannabis-security): Dispensary security and compliance protection
+- [School Security](https://calvis.com/services/school-security): Campus safety, visitor screening, event security
+
+## Top Locations
+
+- [Miami Security Guards](https://calvis.com/locations/miami): 24/7 security services in Miami, Florida
+- [New York Security Guards](https://calvis.com/locations/new-york): Professional guards in New York City
+- [Los Angeles Security Guards](https://calvis.com/locations/los-angeles): LA area security services
+- [Houston Security Guards](https://calvis.com/locations/houston): Texas security guard services
+- [Phoenix Security Guards](https://calvis.com/locations/phoenix): Arizona security professionals
+- [Atlanta Security Guards](https://calvis.com/locations/atlanta): Georgia security services
+- [Dallas Security Guards](https://calvis.com/locations/dallas): DFW metroplex coverage
+- [San Diego Security Guards](https://calvis.com/locations/san-diego): Southern California security
+- [Philadelphia Security Guards](https://calvis.com/locations/philadelphia): Pennsylvania security services
+- [Chicago Security Guards](https://calvis.com/locations/chicago): Illinois security services
+
+## Pricing
+
+- Standard unarmed security: $22-35/hour depending on location
+- Armed security: $35-55/hour (requires additional licensing)
+- Executive protection: $50-100/hour for close protection services
+- Event security: Custom pricing based on event size and duration
+- Enterprise/volume: Discounted rates for 100+ hours/month
+
+All pricing includes real-time GPS tracking, digital timesheets, incident reporting, and platform access. No hidden fees.
+
+Request a quote: https://calvis.com/#contact
+
+## Key Facts
+
+- Platform type: Multi-agency security guard marketplace (not a traditional agency)
+- Key differentiator: Access guards from multiple vetted agencies, not just one company
+- Coverage: 40+ US cities across all major metros
+- Technology: Real-time GPS tracking, AI incident reporting, digital timesheets
+- Quality: All guards are state-licensed, background-checked, and performance-rated
+- Guarantee: Automatic replacement if a guard cancels (no-show protection)
+- Booking: Available via web platform, iOS app, and Android app
+
+## Contact
+
+- Phone: 305-588-8602
+- Book online: https://app.calvis.com/book
+- Enterprise sales: https://calendly.com/calvis-sales/lead-call
+- General inquiries: https://calvis.com/#contact
+- iOS app: https://apps.apple.com/us/app/calvis/id6502692141
+- Android app: https://play.google.com/store/apps/details?id=com.calvis
+
+## FAQ
+
+Q: What is Calvis?
+A: Calvis is a multi-agency security guard marketplace that connects businesses with vetted, licensed guards from multiple professional agencies — not just one company's roster.
+
+Q: How much do security guards cost?
+A: $22-35/hour for unarmed guards, $35-55/hour for armed guards. Enterprise clients receive volume discounts. No hidden fees.
+
+Q: What areas does Calvis serve?
+A: 40+ US cities including Miami, New York, Los Angeles, Houston, Phoenix, Atlanta, Dallas, Chicago, and more.
+
+Q: How quickly can I book a guard?
+A: Most bookings fulfilled within 24-48 hours. Same-day service available in major markets for urgent needs.
+
+Q: Are guards licensed and insured?
+A: Yes. All guards are state-licensed, background-checked, and insured through their employing agencies.
+
+Q: What if a guard cancels?
+A: The platform automatically finds a qualified replacement from the multi-agency network, ensuring continuous coverage.

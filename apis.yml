@@ -1,8 +1,26 @@
 aid: calvis
 name: Calvis
-description: Calvis is a company surfaced as a portfolio company of version-one-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Calvis is a multi-agency security guard marketplace that connects businesses
+  with vetted, state-licensed, background-checked security guards from multiple professional
+  agencies across 40+ US cities. Founded in 2023 and headquartered in Miami, Florida, the
+  platform pairs on-demand booking with AI-powered deployment matching, real-time GPS
+  tracking and geofencing, live AI coaching delivered to guards through an earpiece, and
+  automated incident reporting and site analytics. Businesses book unarmed, armed, event,
+  retail, construction, corporate, residential, hospital, cannabis, and school security
+  through the web platform and iOS/Android apps, while security professionals join the
+  network to find work. Calvis is backed by Version One Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://calvis.com/og-image.png
 url: https://raw.githubusercontent.com/api-evangelist/calvis/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +30,48 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Security
+- Physical Security
+- Security Guards
+- Marketplace
+- Public Safety
+- Workforce
+- On-Demand
+- Artificial Intelligence
 apis: []
+common:
+- type: DomainSecurity
+  url: security/calvis-domain-security.yml
+- type: Website
+  url: https://calvis.com
+- type: Blog
+  url: https://calvis.com/blog
+- type: SignUp
+  url: https://app.calvis.com/auth/login
+- type: Login
+  url: https://app.calvis.com/auth/login
+- type: TermsOfService
+  url: https://calvis.com/terms
+- type: PrivacyPolicy
+  url: https://calvis.com/privacy
+- type: Support
+  url: https://calvis.com/#contact
+- type: LLMsTxt
+  url: llms/calvis-llms.txt
+- type: iOS App
+  url: https://apps.apple.com/us/app/calvis/id6502692141
+- type: Android App
+  url: https://play.google.com/store/apps/details?id=com.calvis
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
