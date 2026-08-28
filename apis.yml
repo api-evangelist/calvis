@@ -9,6 +9,17 @@ description: Calvis is a multi-agency security guard marketplace that connects b
   retail, construction, corporate, residential, hospital, cannabis, and school security
   through the web platform and iOS/Android apps, while security professionals join the
   network to find work. Calvis is backed by Version One Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
