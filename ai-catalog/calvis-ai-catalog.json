@@ -1,0 +1,73 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Calvis",
+    "identifier": "did:web:calvis.com"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:calvis.com:server:calvis-mcp",
+      "displayName": "Calvis MCP Server",
+      "description": "Hosted Model Context Protocol server for booking and managing security guard coverage through the Calvis marketplace.",
+      "type": "application/mcp-server-card+json",
+      "url": "https://calvis.com/.well-known/mcp/server-card.json",
+      "representativeQueries": [
+        "book a security guard for an event in Miami",
+        "schedule overnight coverage for a construction site in Houston",
+        "list my upcoming security shifts",
+        "what is the balance on my Calvis invoice"
+      ]
+    },
+    {
+      "identifier": "urn:air:calvis.com:doc:agent-auth",
+      "displayName": "Calvis Agent Authentication Guide",
+      "description": "How an AI agent registers an OAuth 2.1 client and obtains an access token for the Calvis MCP server.",
+      "type": "text/markdown",
+      "url": "https://calvis.com/auth.md",
+      "representativeQueries": [
+        "how do I connect an AI agent to the Calvis MCP server",
+        "register an OAuth client for Calvis",
+        "which OAuth scopes does Calvis support",
+        "how do I authenticate to Calvis with a personal access token"
+      ]
+    },
+    {
+      "identifier": "urn:air:calvis.com:catalog:api",
+      "displayName": "Calvis API Catalog",
+      "description": "RFC 9727 linkset of the machine-readable API and authorization metadata Calvis publishes.",
+      "type": "application/linkset+json",
+      "url": "https://calvis.com/.well-known/api-catalog",
+      "representativeQueries": [
+        "what APIs does Calvis publish",
+        "where is the Calvis OAuth authorization server metadata",
+        "find the machine-readable endpoint list for calvis.com"
+      ]
+    },
+    {
+      "identifier": "urn:air:calvis.com:doc:site-summary",
+      "displayName": "Calvis Site Summary",
+      "description": "Plain-text overview of the Calvis marketplace: services, covered metros, hourly pricing ranges, and booking entry points.",
+      "type": "text/plain",
+      "url": "https://calvis.com/llms.txt",
+      "representativeQueries": [
+        "what is Calvis",
+        "how much does a security guard cost per hour",
+        "which cities does Calvis cover",
+        "does Calvis offer armed security guards",
+        "how quickly can I book a security guard"
+      ]
+    },
+    {
+      "identifier": "urn:air:calvis.com:skill:index",
+      "displayName": "Calvis Agent Skills Index",
+      "description": "Index of the agent skills Calvis publishes, each describing a task an agent can carry out against the marketplace.",
+      "type": "application/json",
+      "url": "https://calvis.com/.well-known/agent-skills/index.json",
+      "representativeQueries": [
+        "what agent skills does Calvis publish",
+        "how should an agent request security guard coverage from Calvis",
+        "list the tasks an agent can perform with Calvis"
+      ]
+    }
+  ]
+}
